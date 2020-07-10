@@ -20,3 +20,20 @@ a:hover{
     width: 350px;
     height: 103px;
 }
+
+
+/* media query */
+ /* Small devices (landscape phones, 576px and up) */
+@media (max-width: 576px) {
+    .large-screen{
+        display: none;
+    }
+ }
+ 
+
+ @media only screen and (min-width: 577px) {
+   .mobile-screen{
+       display: none;
+   }
+  }
+
