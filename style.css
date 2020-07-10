@@ -1,0 +1,22 @@
+body{
+    background-color: #4e85df;
+    color: #FFF;
+}
+
+a{
+    color: #FFF;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #FFF;
+}
+
+.user-input{
+    background-color: #25267e;
+}
+
+.logo-onebanc{
+    width: 350px;
+    height: 103px;
+}
